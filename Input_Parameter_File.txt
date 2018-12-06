@@ -1,11 +1,11 @@
 Parameter File (Tab delimited input file)
 
---Genotyping_Array_File C:\Users\Joe\Dropbox\Comparing_600K_to_VCFs_Panels\600K_Genotyping_Data\Older_Data_Exported\600K_Chr1.txt
+--Genotyping_Array_File 600K_Chr1.txt
 
 SNP List for Filtering 600K Data (Minor Allele Frequency)
---600K_SNP_List C:\Users\Joe\Dropbox\Comparing_600K_to_VCFs_Panels\600K_Genotyping_Data\Final_Version_for-BioMix\All_SNPs_with_Call_Rate_97_Plus_3-21-2018.txt
+--600K_SNP_List All_SNPs_with_Call_Rate_97_Plus_3-21-2018.txt
 
---RNA_Seq_File C:\Users\Joe\Dropbox\Comparing_600K_to_VCFs_Panels\RNA_Seq_Data_BioMix\Muscle_Chromosome_1\Modified__Alleles_Testing_RNA_Seq_Chr1.txt
+--RNA_Seq_File Modified__Alleles_Testing_RNA_Seq_Chr1.txt
 
 Filtering Parameters of RNA-Seq Data
 
@@ -19,7 +19,7 @@ Minimum Read Count for for a Sample
 --Minimum_Read_Count 20
 
 Matching Files Key
---ID_Key_File C:\Users\Joe\Dropbox\Comparing_600K_to_VCFs_Panels\Testing_3-22-2018\Validating_Program\FE_Muscle_Sample_Key.txt
+--ID_Key_File FE_Muscle_Sample_Key.txt
 
 Testing Code Limit Loops of Variant Matching
 --Match_Limit 10
